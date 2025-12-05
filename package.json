@@ -21,7 +21,9 @@
     "helmet": "^8.1.0",
     "http": "^0.0.1-security",
     "joi": "^17.13.3",
+    "mongoose": "^7.5.0",
     "nodemon": "^3.1.9",
-    "mongoose": "^7.5.0"
+    "recoil": "^0.7.7",
+    "uuid": "^13.0.0"
   }
 }
